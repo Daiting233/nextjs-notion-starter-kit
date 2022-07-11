@@ -13,16 +13,6 @@ export default siteConfig({
   domain: 'new-media-collection',
   author: 'Dai Ting',
 
-  // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
-
-  // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
-  // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
-
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
